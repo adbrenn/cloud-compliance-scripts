@@ -1,0 +1,5 @@
+*.env
+credentials*
+*-output.csv
+results.csv
+.DS_Store
